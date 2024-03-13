@@ -1,0 +1,11 @@
+# This I want to ignore in .gcloudignore
+.Python
+env/
+build/
+
+# This I want to keep in .gcloudignore
+#module_data_import
+#module_calendar
+
+#
+HelloWorldNodeJs
